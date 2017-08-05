@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-b63769a1"
+    "ParameterValue": "ami-f5d7f195"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "pubpriv"
+    "ParameterValue": "centos"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-7189942a"
+    "ParameterValue": "subnet-5c4f0d04"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-bac59ac5"
+    "ParameterValue": "sg-fd91829a"
   }
 ]
